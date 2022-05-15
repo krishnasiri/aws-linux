@@ -1,10 +1,12 @@
 checking the git conflicts on merging
 and testing to resolve methods.
-need to check it out now in next 1 hr
+need to check it out now in next 1 hr 
 
 here im writing something to check
 check
 test
 run
 trail
+
+nothing to add
 
