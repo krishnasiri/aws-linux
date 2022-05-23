@@ -9,4 +9,8 @@ run
 trail
 
 nothing to add
+if we want to create the soft link the command is 
+ "ln -s sourcefile destination path"
+ "ln -s $(pwd)/file1 /home/ec2-user/destination/file1"
+when we creating the soft link we must use the absolute path for perfection in task.
 
